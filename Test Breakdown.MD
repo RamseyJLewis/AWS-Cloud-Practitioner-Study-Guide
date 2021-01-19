@@ -6,8 +6,6 @@ Domain 3: Technology 33%   (MOST QUESTONS)
 Domain 4: Billing and Pricing 16% (LEAST QUESTIONS)
 TOTAL 100%
 
-
-
 Domain 1: Cloud Concepts
 1.1 Define the AWS Cloud and its value proposition
 1.2 Identify aspects of AWS Cloud economics
@@ -29,7 +27,5 @@ Domain 4: Billing and Pricing  (LEAST QUESTIONS)
 4.1 Compare and contrast the various pricing models for AWS
 4.2 Recognize the various account structures in relation to AWS billing and pricing
 4.3 Identify resources available for billing support
-
-
 
 SOURCE :  https://aws.amazon.com/certification/certified-cloud-practitioner/
